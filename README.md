@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Alves | devpedro404
+# 👩🏻‍💻 Pedro Alves | devpedro404 |
 
 **`Desenvolvedor FullStack`**
 
