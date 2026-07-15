@@ -1,13 +1,16 @@
-# 👩🏻‍💻 Pedro Alves | devpedro404 |
+# 👩🏻‍💻 devpedro404 
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer Building efficient and scalable solutions.`**
+
 
 <div align="center"> <img height="170" src="github-cat.gif" /> 
 
 
 </div>
 
-Me chamo Pedro Alves, tenho 20 anos e sou natural de São Paulo - Sp. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+I'm Pedro Alves, a Systems Analysis and Development student from São Paulo, Brazil, passionate about web development, software engineering, and building scalable applications.
+
+<br>
 
 <div align="center">
 <a href="https://github.com/devpedro404?tab=followers">
@@ -23,17 +26,16 @@ Me chamo Pedro Alves, tenho 20 anos e sou natural de São Paulo - Sp. Atualmente
 </a>
 </div>
 
-## 🚀 Sobre Mim
+## 🚀About Me
 
-- 💻 Desenvolvedor FullStack
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 📍 São Paulo - SP, Brasil
-- 🌱 Atualmente estudando React, Node.js e Arquitetura de Software
-- 🎯 Focado em desenvolvimento web e sistemas completos
+- 💻 FullStack Developer
+- 🎓 Systems Analysis and Development Student
+- 📍 São Paulo, Brasil
+- 🎯 Foccused on Web Development and FullStack Applications
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguages e Tecnologies
 
 <img 
     align="left" 
@@ -137,9 +139,9 @@ Me chamo Pedro Alves, tenho 20 anos e sou natural de São Paulo - Sp. Atualmente
 <br/>
 <br/>
 
-## 🌐 Contato
+## 🌐 Contact
 
-- Contate-me pelo email: devpedro@gmail.com
+- Email: devpedro@gmail.com
 
 </div>
 
