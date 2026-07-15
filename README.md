@@ -26,12 +26,12 @@ I'm Pedro Alves, a Systems Analysis and Development student from São Paulo, Bra
 </a>
 </div>
 
-## 🚀About Me
+## About Me
 
-- 💻 FullStack Developer
-- 🎓 Systems Analysis and Development Student
-- 📍 São Paulo, Brasil
-- 🎯 Foccused on Web Development and FullStack Applications
+- FullStack Developer
+- Systems Analysis and Development Student
+- São Paulo, Brasil
+- Foccused on Web Development and FullStack Applications
 
 ---
 
@@ -198,7 +198,7 @@ I'm Pedro Alves, a Systems Analysis and Development student from São Paulo, Bra
 <br/>
 <br/>
 
-## 🌐 Contact
+## Contact
 
 - Email: devpedro@gmail.com
 
