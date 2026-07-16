@@ -8,7 +8,6 @@
 
 I'm Pedro Alves, a Systems Analysis and Development student from São Paulo, Brazil, passionate about web development, software engineering, and building scalable applications.
 
-<br>
 
 ## About Me
 
