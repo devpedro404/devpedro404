@@ -3,28 +3,12 @@
 **`FullStack Developer Building efficient and scalable solutions.`**
 
 
-<div align="center"> <img height="170" src="github-cat.gif" /> 
-
 
 </div>
 
 I'm Pedro Alves, a Systems Analysis and Development student from São Paulo, Brazil, passionate about web development, software engineering, and building scalable applications.
 
 <br>
-
-<div align="center">
-<a href="https://github.com/devpedro404?tab=followers">
-  <img src="https://custom-icon-badges.demolab.com/github/followers/devpedro404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=seguidores&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/devpedro404?tab=stars">
-  <img src="https://custom-icon-badges.demolab.com/github/stars/devpedro404?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-</a>
-&nbsp;
-<a href="https://github.com/devpedro404">
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-devpedro404-black?style=for-the-badge&logo=github" />
-</a>
-</div>
 
 ## About Me
 
@@ -204,7 +188,29 @@ I'm Pedro Alves, a Systems Analysis and Development student from São Paulo, Bra
 
 </div>
 
+<div align="center"> <img height="170" src="github-cat.gif" /> 
+
 <div align="center">
+<a href="https://github.com/devpedro404?tab=followers">
+  <img src="https://custom-icon-badges.demolab.com/github/followers/devpedro404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=seguidores&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/devpedro404?tab=stars">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/devpedro404?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+</a>
+
+  <br>
+&nbsp;
+<a href="https://github.com/devpedro404">
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-devpedro404-black?style=for-the-badge&logo=github" />
+</a>
+</div>
+
+
+
+<div align="center">
+
+
 
 ![](https://komarev.com/ghpvc/?username=devpedro404&color=blueviolet&style=for-the-badge)
 
