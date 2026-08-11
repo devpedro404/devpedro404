@@ -187,10 +187,10 @@ I'm Pedro Alves, a Systems Analysis and Development student from São Paulo, Bra
 
 </div>
 
-<div align="center"> <img height="170" src="github-cat.gif" /> 
+<!-- <div align="center"> <img height="170" src="github-cat.gif" />  -->
 
 <div align="center">
-<a href="https://github.com/devpedro404?tab=followers">
+<a href="zhttps://github.com/devpedro404?tab=followers">
   <img src="https://custom-icon-badges.demolab.com/github/followers/devpedro404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=seguidores&logoColor=white" />
 </a>
 &nbsp;
