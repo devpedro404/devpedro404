@@ -6,7 +6,12 @@
 
 </div>
 
-I'm Pedro Alves, a Systems Analysis and Development student from São Paulo, Brazil, passionate about web development, software engineering, and building scalable applications.
+## About Me
+
+I'm Pedro Alves, a Full Stack Developer from São Paulo, Brazil, focused on building modern, scalable, and reliable software solutions.
+I work across the development stack, with experience in backend, frontend, APIs, databases, and system architecture. I'm constantly improving my skills and exploring new technologies to build efficient applications that solve real-world problems.
+I'm particularly interested in software engineering, web development, automation, and scalable systems.
+> Building software, solving problems, and learning something new every day.
 
 
 ## About Me
