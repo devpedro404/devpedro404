@@ -13,7 +13,7 @@ I'm Pedro Alves, a Full Stack Developer from São Paulo, Brazil, focused on buil
 
 ---
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=devpedro404&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak" />
