@@ -13,6 +13,16 @@ I'm Pedro Alves, a Full Stack Developer from São Paulo, Brazil, focused on buil
 
 ---
 
+## 💼 What I Do
+
+- **Web Development:** Building responsive and modern interfaces with React and Next.js.
+- **Backend Development:** Creating robust APIs and services with Node.js, PHP, and C#.
+- **Database Design:** Structuring efficient and scalable databases with PostgreSQL.
+- **DevOps:** Containerizing applications with Docker for consistent deployments.
+- **Automation:** Developing scripts and tools to automate repetitive tasks.
+
+---
+
 ##  Contribution Streak
 
 <div align="center">
