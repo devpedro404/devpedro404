@@ -73,10 +73,11 @@ I'm Pedro Alves, a Full Stack Developer from São Paulo, Brazil, focused on buil
 ## Contact
 
 <div align="center">
-  <p>📧 <strong>Email:</strong> <a href="mailto:devpedro@gmail.com">devpedro@gmail.com</a></p>
 
-  <br>
-
+  <a href="mailto:devpedro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devpedro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
   <a href="https://github.com/devpedro404?tab=followers">
     <img src="https://custom-icon-badges.demolab.com/github/followers/devpedro404?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="Followers" />
   </a>
@@ -84,16 +85,13 @@ I'm Pedro Alves, a Full Stack Developer from São Paulo, Brazil, focused on buil
   <a href="https://github.com/devpedro404?tab=stars">
     <img src="https://custom-icon-badges.demolab.com/github/stars/devpedro404?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" alt="Stars" />
   </a>
-
-  <br>
-  <br>
-
+  &nbsp;
   <a href="https://github.com/devpedro404">
     <img src="https://custom-icon-badges.demolab.com/badge/GitHub-devpedro404-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
 
-  <br>
-  <br>
+  <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=devpedro404&color=blueviolet&style=for-the-badge" alt="Profile views" />
+
 </div>
