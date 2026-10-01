@@ -107,6 +107,4 @@ I'm Pedro Alves, a Full Stack Developer from São Paulo, Brazil, focused on buil
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=devpedro404&color=blueviolet&style=for-the-badge" alt="Profile views" />
-
 </div>
