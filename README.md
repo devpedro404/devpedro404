@@ -64,13 +64,15 @@ I'm Pedro Alves, a Full Stack Developer from São Paulo, Brazil, focused on buil
 
   <br>
 
-  <!-- Database & DevOps -->
+    <!-- Database & DevOps -->
 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeidiSQL-2E8BC0?style=for-the-badge&logo=heidisql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
   <br>
 
   <!-- Tools -->
